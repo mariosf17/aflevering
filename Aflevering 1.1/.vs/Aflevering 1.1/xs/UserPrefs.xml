@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{33C7B96B-5EEE-6ABE-1A33-B07CFFD34531}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripst/Player.cs">
+    <Files>
+      <File FileName="Assets/Scripst/Player.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Aflevering 1.1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripst" expanded="True">
+                <Node name="Player.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="88b4c1c4-a0b6-4ef6-9815-61acca4d1cbf" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
